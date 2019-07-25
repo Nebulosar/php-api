@@ -1,5 +1,12 @@
 vendor/
 bin/
+build/
 composer.phar
-composer.lock
 .idea/
+.php_cs.cache
+*.phpproj
+*.sln
+*.suo
+/.vs
+coverage.clover
+/build/logs/clover.xml
