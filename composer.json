@@ -1,5 +1,5 @@
 {
-	"name": "datatrics/php-api",
+	"name": "nebulosar/php-api",
 	"description": "Datattrics API client",
 	"keywords": ["datatrics", "datatrics.com", "api", "php-api", "php-sdk"],
 	"license": "MIT",
